@@ -16,7 +16,6 @@
 I am a **Full-Stack Developer** with freelance client experience who specializes in building responsive web applications and high-performance, resilient backends. I focus on tiered caching with Redis, asynchronous task processing using BullMQ queues, and robust CI/CD tested REST APIs.
 
 - 🔭 **Currently working on:** Distributed backend architectures & production-grade full-stack web applications.
-- 🌱 **Currently exploring:** Advanced cloud deployments, microservices architecture, and system design patterns.
 - 💬 **Ask me about:** React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Redis, BullMQ, and WebSockets.
 - ⚡ **Fun Fact:** Solved 200+ DSA problems across Python and JavaScript, and sustained 850+ req/sec loads with 0% error on personal projects.
 
