@@ -76,17 +76,13 @@ I am a **Full-Stack Developer** with freelance client experience who specializes
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <a href="https://github.com/akshaykp123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykp123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykp123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/akshaykp123">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaykp123&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-  </a>
+  <img src="https://ghchart.rshah.org/2196f3/akshaykp123" alt="Akshay's GitHub Contribution Graph" width="100%" />
 </div>
 
 ---
