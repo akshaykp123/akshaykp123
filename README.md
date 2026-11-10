@@ -1,44 +1,91 @@
-## Hi there 👋
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<div align="center">
+  <h1>Hi there, I'm <a href="https://portfolio-akshay-kp.netlify.app">Akshay K P</a> 👋</h1>
+  <p><strong>Full-Stack Developer (MERN / Next.js) | Performance & Backend Enthusiast</strong></p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akshaykp701) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaykp701@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshaykp123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshaykp123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykp123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshaykp123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <p>
+    <a href="https://linkedin.com/in/akshaykp701"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://portfolio-akshay-kp.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:akshaykp701@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshaykp123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a **Full-Stack Developer** with freelance client experience who specializes in building responsive web applications and high-performance, resilient backends. I focus on tiered caching with Redis, asynchronous task processing using BullMQ queues, and robust CI/CD tested REST APIs.
 
+- 🔭 **Currently working on:** Distributed backend architectures & production-grade full-stack web applications.
+- 🌱 **Currently exploring:** Advanced cloud deployments, microservices architecture, and system design patterns.
+- 💬 **Ask me about:** React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Redis, BullMQ, and WebSockets.
+- ⚡ **Fun Fact:** Solved 200+ DSA problems across Python and JavaScript, and sustained 850+ req/sec loads with 0% error on personal projects.
 
+---
 
+### 💻 Tech Stack
 
-<!--
-**akshaykp123/akshaykp123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**  
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E74C3C?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+</div>
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **PulseLink** | High-performance URL shortener and telemetry analytics engine. Implemented tiered Redis caching (reducing DB reads by 70%) and asynchronous click ingestion with BullMQ handling 850+ req/sec. | `Node.js` `PostgreSQL` `Redis` `BullMQ` `TypeScript` `Docker` | [GitHub](https://github.com/akshaykp123) |
+| **Cartzy** | Real-time e-commerce platform with live order updates and <100ms notification latency via WebSockets. Includes HTTP-only JWT auth, PayPal REST SDK checkout, and Cloudinary media processing. | `React.js` `Node.js` `Express.js` `Socket.io` `MongoDB` `Redux` | [GitHub](https://github.com/akshaykp123) |
+| **Interview Prep AI** | AI-driven interview evaluation application. Integrates Google Gemini API to generate customized technical questions and evaluate candidate responses across 5+ engineering roles. | `React.js` `Node.js` `Express.js` `MongoDB` `Gemini API` | [GitHub](https://github.com/akshaykp123) |
+| **ALAA Transport** | Production client website for a UAE logistics firm featuring responsive service carousels, WhatsApp quick-connect, and optimized Next.js WebP rendering. | `Next.js` `Tailwind CSS` `Vercel` `Formspree` | [Live Site](https://alaatransport.com) |
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaykp123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshay's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykp123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykp123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & Developed by Akshay K P • Let's connect on <a href="https://linkedin.com/in/akshaykp701">LinkedIn</a></sub>
+</div>
